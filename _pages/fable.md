@@ -13,7 +13,7 @@ nav_order: 3
     <img src="assets/img/animal_land.jpg" alt="Animal Land" style="height: 300px; width: auto;">
   </div>-->
 
- <div style="white-space: pre-wrap;text-align: center;">
+<div style="white-space: pre-wrap;text-align: center;">
 <h2 style="text-align: center;">ANIMAL LAND</h2>
 <h3 style="text-align: center;">Prologue</h3>
 Animal Land 
