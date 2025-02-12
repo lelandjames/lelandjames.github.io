@@ -4,6 +4,7 @@ permalink: /fable
 title: FABLE
 description: 
 nav: true
+hide_title: true
 nav_order: 3
 ---
 

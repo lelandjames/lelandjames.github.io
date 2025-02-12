@@ -4,6 +4,7 @@ permalink: /poetry
 title: POETRY
 description: 
 nav: true
+hide_title: true
 nav_order: 5
 ---
 

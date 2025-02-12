@@ -4,6 +4,7 @@ permalink: /short-story
 title: SHORT STORY
 description: 
 nav: true
+hide_title: true
 nav_order: 6
 ---
                            

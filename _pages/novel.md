@@ -4,6 +4,7 @@ permalink: /novel
 title: NOVEL
 description: 
 nav: true
+hide_title: true
 nav_order: 2
 ---
 
