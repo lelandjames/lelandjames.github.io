@@ -7,25 +7,34 @@ nav: true
 nav_order: 3
 ---
 
-<div style="text-align: center; margin: 0 auto; max-width: 800px;">
-  <h2 style="text-align: center;">ANIMAL LAND</h2>
-  <h3 style="text-align: center;">Prologue</h3>
-  <p style="margin-bottom: 1em; text-align: left; display: inline-block;">Animal Land was at the heart of things, of the story as it here unfolds,
-    a land ringed by many other lands in a far away world quite like,
-    and quite unlike, our own imperfect world.</p>
+<div style="text-align: center; max-width: 600px; margin: 1em auto;">
+  <h2 style="margin-bottom: 0.5em;">ANIMAL LAND</h2>
+  <h3 style="margin-top: 0; margin-bottom: 1em;">Prologue</h3>
+  <pre style="font-family: inherit; font-size: 1em; white-space: pre-wrap; border: 0; background-color: transparent; text-align: center; color: black;">
+Animal Land was at the heart of things,
+of the story as it here unfolds,
+a land ringed by many other lands
+in a far away world quite like,
+and quite unlike, our own imperfect world.
 
-  <p style="margin-bottom: 1em; text-align: left; display: inline-block;">In its makeup Animal Land resembled the other lands in its world,
-    having seaside, jungle, mountains, forest and plains, and a diverse,
-    you might say “zoo like,” array of inhabitants.</p>
+In its makeup Animal Land resembled
+the other lands in its world,
+having seaside, jungle, mountains,
+forest and plains, and a diverse,
+you might say "zoo like,"
+array of inhabitants.
 
-  <p style="margin-bottom: 1em; text-align: left; display: inline-block;">Before the story begins, let us be clear, Animal Land was not a land
-    without its own sins, maybe more than its share of unholy acts.
-    But that is another story for another time.</p>
+Before the story begins, let us be clear,
+Animal Land was not a land
+without its own sins, maybe more
+than its share of unholy acts.
 
-  <p style="margin-bottom: 1em; text-align: left; display: inline-block;">This is a story of Animal Land, and thereby its world, in a time
-    long past when Animal Land and stalwart allies bravely opposed
-    an army of abominable aberrant beasts.</p>
+This is a story of Animal Land, and thereby its world,
+in a time long past when Animal Land and
+stalwart allies bravely opposed
+an army of abominable aberrant beasts.
 
-  <p style="margin-bottom: 1em; text-align: left; display: inline-block;">A time of World War.</p>
+A time of World War.
+  </pre>
 </div>
 
