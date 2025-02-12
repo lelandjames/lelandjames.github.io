@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: leland_james.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Leland James is the winner of the Aesthetica Creative Writing Award and the Conclave Character Prize in fiction. In addition to fiction, Leland has published poetry worldwide, authoring eight poetry collection and five children’s books in verse, garnering over a dozen international prizes and awards including nomination for a Pushcart Prize. His writing style is described by Don Williams, Editor Emeritus of New Millennium Writings as “mystical yet earthbound.” Leland lives in a cabin in the woods in northern Michigan with his wife of over fifty years, his “first reader” and invaluable critic. He cuts his own firewood and shovels a small mountain of snow each year. A champion of both tradition and innovation in the arts, he travels widely to libraries and schools, delivering instructional and entertaining readings of his own and other’s creative work. Twain and Dostoevsky are his favorite authors.
