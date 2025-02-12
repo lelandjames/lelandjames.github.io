@@ -62,3 +62,14 @@
       margin-bottom: 20px; /* Add spacing below image */
     }
   }
+
+  footer.sticky-bottom {
+    margin-top: 0 !important; /* Or a smaller value, like 1rem or 2rem */
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+
+  .navbar {
+    opacity: .98 !important; /* Override navbar opacity if needed */
+  }
+  

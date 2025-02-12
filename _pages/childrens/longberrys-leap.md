@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /childrens/longberrys-leap
-title: CHILDRENS
+title: LONGBERRY'S LEAP
 description: 
 nav: false
 hide_title: true
