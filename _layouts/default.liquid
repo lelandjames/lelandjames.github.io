@@ -8,17 +8,17 @@
       {% elsif page.redirect contains '://' %}
         {% assign redirect = page.redirect %}
       {% else %}
-        {% assign redirect = page.redirect | relative_url %}
+        {% assign redirect = page.redirect %}
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
-    {% include head.liquid %}
+    {% include "head.liquid" %}
   </head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
-    {% include header.liquid %}
+    {% include "header.liquid" %}
 
     <!-- Content -->
     <div class="container mt-5" role="main">
@@ -48,9 +48,9 @@
     </div>
 
     <!-- Footer -->
-    {% include footer.liquid %}
+    {% include "footer.liquid" %}
 
     <!-- JavaScripts -->
-    {% include scripts.liquid %}
+    {% include "scripts.liquid" %}
   </body>
 </html>

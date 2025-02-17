@@ -3,6 +3,9 @@ layout: about
 title: HOME
 permalink: /
 subtitle: 
+eleventyNavigation:
+  key: Home
+  order: 1
 
 profile:
   align: right

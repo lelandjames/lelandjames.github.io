@@ -2,9 +2,8 @@
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
+      {{ first_name }}
+      {{ last_name }}. {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}
@@ -16,16 +15,15 @@
 {% else %}
   <footer class="sticky-bottom" role="contentinfo">
     {% if site.newsletter.enabled %}
-      {% include newsletter.liquid %}
+      {% include "newsletter.liquid" %}
     {% endif %}
 
     <div class="centered-content">
       <a href="{{ site.baseurl }}/contact">Contact</a>
       <br>
-      &copy; Copyright {{ site.time | date: '%Y' }}
-      {{ site.first_name }}
-      {{ site.middle_name }}
-      {{ site.last_name }}. {{ site.footer_text }}
+      &copy; Copyright {{ 'now' | date: '%Y' }}
+      {{ first_name }}
+      {{ last_name }}. {{ site.footer_text }}
       {% if site.impressum_path %}
         <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
       {% endif %}

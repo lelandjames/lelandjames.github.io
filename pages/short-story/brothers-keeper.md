@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /short-story/brothers-keeper
+permalink: /short-story/brothers-keeper/
 title: MY BROTHER'S KEEPER
 description: 
-nav: false
+eleventyNavigation:
+  key: Brothers Keeper
+  parent: Short Story
 hide_title: false
-nav_order: 
 ---
                            
 *Winner Conclave Character Prize in Fiction*

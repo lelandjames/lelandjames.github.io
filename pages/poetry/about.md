@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /poetry/about
+permalink: /poetry/about/
 title: POETRY
 description: 
-nav: false
+eleventyNavigation:
+  key: About
+  parent: Poetry
 hide_title: false
-nav_order: 
 ---
 
 Leland James is the author of eight books of poetry, several children’s books in verse, and a book on poetry craft. He has published over 300 poems in poetry venues worldwide including Rattle, The Lyric, The South Carolina Review; The Spoon River Poetry Review, The Atlanta Review, New Millennium Writings, HQ The Haiku Quarterly, and The London Magazine. 

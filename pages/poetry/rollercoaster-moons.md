@@ -1,23 +1,24 @@
 ---
 layout: page
-permalink: /childrens/longberrys-leap
-title: LONGBERRY'S LEAP
+permalink: /poetry/rollercoaster-moons/
+title: ROLLERCOASTER MOONS
 description: 
-nav: false
+eleventyNavigation:
+  key: About
+  parent: Poetry
 hide_title: true
 ---
 
 <div class="container">
   <div class="image-container">
-    <img src="../assets/img/longberry.jpg" alt="Book Cover">
+    <img src="../assets/img/rollercoaster-moons.png" alt="Rollercoaster Moons cover">
   </div>
   <div class="text-container">
-    <h2>LONGBERRY'S LEAP</h2>
-    <p><em>Longberry’s Leap</em> is the story of a young girl’s adventure into the world of imagination, and her imaginative reconciliation with the uninspired kingdom from where she took <em>the leap</em> and discovered the whimsical world of <em>Out There</em>. Imagination leads to insight as well as delight. The book is suitable read to children as young as six and may be read by many ten- and twelve-year-olds. The book is written in rhyming couplets, with word play enjoyable for both children and adults. The author, Leland James, is an internationally acclaimed poet. It is fully illustrated with whimsical drawings by artist Anne Zimanski. Tools for parents who wish to build their child’s vocabulary through the story are included.</p>
-    <p>“Leland James’ storybook for children, Longberry's Leap, is an homage to the thinkers and dreamers out there who can’t accept that everything is already known, and who haven’t lost the capacity for wonder.”</p>
-    <p><strong>—Jack Magnus for Readers' Favorite</strong></p>
-    <p><a href="#" id="toggle-sample">Read sample</a></p>
-    <p><a href="https://www.amazon.com/Longberrys-Leap-Leland-James/dp/1935656473">Order book</a></p>
+    <h2>ROLLERCOASTER MOONS</h2>
+    <p><em>The Rollercoaster Moons</em> (Little Red Tree Publishing) lives up to its title, offering a satisfying sometimes electrifying ride. Approximately half the book is in traditional meter and often rhyme, with a contemporary feel. The remainder of the poems have their own alternative metrical scheme and structure, always musical. Sections of the book range from the whimsical to the deeply reflective, over a wide variety of universal themes. Subjects and ideas are often approached from different angles both within and in different poems. James is not afraid of deep sadness, laughter, or joy. His poetry is deeply rooted in the traditions of the past, with a modern tone, syntax, and diction. His book honors the poetry traditions of the past, while not being afraid to bend and stretch the poetry medium to create sharp turns and sudden changes in direction. A deeply satisfying ride forreaders of all ages and differing poetic inclinations. — Amazon</p>
+    <p>“James, in <em>Rollercoaster Moons</em>, employs an imagination and spontaneous quality of language.”</p><p><strong>—Dr. Karunesh Kumar Agarwal, Editor Cyberwit.netCyberwit.net</strong></p>
+    <!--<p><a href="#" id="toggle-sample">Read sample</a></p>-->
+    <p><a href="https://www.amazon.com/Rollercoaster-Moons-collected-conservative-verse/dp/1935656651">Order collection</a></p>
   </div>
 </div>
 
