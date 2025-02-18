@@ -6,12 +6,13 @@ export default function (eleventyConfig) {
     'assets': 'assets',
     'robots.txt': 'robots.txt',
   });
-  eleventyConfig.addGlobalData('site_title', 'Leland James');
-  eleventyConfig.addGlobalData('first_name', 'Leland');
-  eleventyConfig.addGlobalData('last_name', 'James');
+  eleventyConfig.addGlobalData('site', {
+    title: 'blank', // Set to 'blank' to use first_name and last_name
+    first_name: 'Leland',
+    last_name: 'James'
+  });
   eleventyConfig.setIncludesDirectory('_includes');
   eleventyConfig.setLayoutsDirectory('_layouts');
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
-
 };

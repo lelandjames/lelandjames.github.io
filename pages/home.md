@@ -15,7 +15,6 @@ profile:
 
 ---
 
-<h1 class="post-title"> <span class="font-weight-bold">Leland</span> James </h1>
 
 <article>
   <div class="profile float-right">
