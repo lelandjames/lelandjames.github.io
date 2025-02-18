@@ -3,13 +3,15 @@ layout: page
 permalink: /childrens/longberrys-leap/
 title: LONGBERRY'S LEAP
 description: 
-nav: false
 hide_title: true
+eleventyNavigation:
+  key: LONGBERRY'S LEAP
+  parent: CHILDRENS
 ---
 
 <div class="container">
   <div class="image-container">
-    <img src="../assets/img/longberry.jpg" alt="Book Cover">
+    <img src="/assets/img/longberry.jpg" alt="Book Cover">
   </div>
   <div class="text-container">
     <h2>LONGBERRY'S LEAP</h2>

@@ -3,6 +3,6 @@ layout: page
 title: CHILDRENS
 permalink: /childrens/
 eleventyNavigation:
-  key: Childrens
+  key: CHILDRENS
   order: 4
 ---

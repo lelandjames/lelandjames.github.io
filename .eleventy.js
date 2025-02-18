@@ -13,4 +13,5 @@ export default function (eleventyConfig) {
   eleventyConfig.setLayoutsDirectory('_layouts');
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
 };

@@ -4,7 +4,7 @@ permalink: /short-story/brothers-keeper/
 title: MY BROTHER'S KEEPER
 description: 
 eleventyNavigation:
-  key: Brothers Keeper
+  key: MY BROTHER'S KEEPER
   parent: Short Story
 hide_title: false
 ---

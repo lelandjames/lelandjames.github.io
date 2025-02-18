@@ -5,7 +5,7 @@ title: ANIMAL LAND
 description:
 eleventyNavigation:
   key: Animal Land
-  parent: Novel
+  parent: Fable
 hide_title: true
 ---
 
