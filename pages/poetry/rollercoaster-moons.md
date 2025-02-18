@@ -11,7 +11,7 @@ hide_title: true
 
 <div class="container">
   <div class="image-container">
-    <img src="../assets/img/rollercoaster-moons.png" alt="Rollercoaster Moons cover">
+    <img src="/assets/img/rollercoaster-moons.png" alt="Rollercoaster Moons cover">
   </div>
   <div class="text-container">
     <h2>ROLLERCOASTER MOONS</h2>
@@ -23,7 +23,7 @@ hide_title: true
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
-  <img src="../assets/img/longberrys_leap_illus.jpg" alt="Longberry's Leap Illustration">
+  <img src="/assets/img/longberrys_leap_illus.jpg" alt="Longberry's Leap Illustration">
   <h2>LONGBERRY'S LEAP</h2>
 <p><strong>CHAPTER ONE</strong></p>
 <p>Young Longberry lived in a land oh-so proud,</p>
