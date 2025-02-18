@@ -4,8 +4,8 @@ permalink: /fable/animal-land/
 title: ANIMAL LAND
 description:
 eleventyNavigation:
-  key: Animal Land
-  parent: Fable
+  key: ANIMAL LAND
+  parent: FABLE
 hide_title: true
 ---
 

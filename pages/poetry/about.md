@@ -4,8 +4,8 @@ permalink: /poetry/about/
 title: POETRY
 description: 
 eleventyNavigation:
-  key: About
-  parent: Poetry
+  key: ABOUT
+  parent: POETRY
 hide_title: false
 ---
 

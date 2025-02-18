@@ -2,6 +2,6 @@
 layout: page
 title: SHORT STORY
 eleventyNavigation:
-  key: Short Story
+  key: SHORT STORY
   order: 6
 ---

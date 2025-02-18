@@ -6,7 +6,7 @@ description:
 hide_title: true
 eleventyNavigation:
   key: ENWORLD
-  parent: Novel
+  parent: NOVEL
 ---
 
 <div class="container">

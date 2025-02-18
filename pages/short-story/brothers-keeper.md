@@ -5,10 +5,11 @@ title: MY BROTHER'S KEEPER
 description: 
 eleventyNavigation:
   key: MY BROTHER'S KEEPER
-  parent: Short Story
-hide_title: false
+  parent: SHORT STORY
 ---
                            
+<h1>MY BROTHER'S KEEPER</h1>
+
 *Winner Conclave Character Prize in Fiction*
 
 Leland James

@@ -3,6 +3,6 @@ layout: page
 title: NOVEL
 permalink: /novel/
 eleventyNavigation:
-  key: Novel
+  key: NOVEL
   order: 2
 ---

@@ -2,6 +2,6 @@
 layout: page
 title: POETRY
 eleventyNavigation:
-  key: Poetry
+  key: POETRY
   order: 5
 ---

@@ -4,8 +4,8 @@ permalink: /poetry/rollercoaster-moons/
 title: ROLLERCOASTER MOONS
 description: 
 eleventyNavigation:
-  key: Rollercoaster Moons
-  parent: Poetry
+  key: ROLLERCOASTER MOONS
+  parent: POETRY
 hide_title: true
 ---
 

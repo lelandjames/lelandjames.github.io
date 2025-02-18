@@ -3,6 +3,6 @@ layout: page
 title: FABLE
 permalink: /fable/
 eleventyNavigation:
-  key: Fable
+  key: FABLE
   order: 3
 ---
