@@ -11,7 +11,7 @@ hide_title: true
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/rollercoaster-moons.png" alt="Rollercoaster Moons cover">
+    <img src="/assets/img/rollercoaster_moons.png" alt="Rollercoaster Moons cover">
   </div>
   <div class="text-container">
     <h2>ROLLERCOASTER MOONS</h2>
