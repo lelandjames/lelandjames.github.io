@@ -11,7 +11,7 @@ eleventyNavigation:
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/longberry.jpg" alt="Book Cover">
+    <img src="/assets/img/longberrys-leap.jpg" alt="Book Cover">
   </div>
   <div class="text-container">
     <h2>LONGBERRY'S LEAP</h2>
@@ -24,7 +24,7 @@ eleventyNavigation:
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
-  <img src="../assets/img/longberrys_leap_illus.jpg" alt="Longberry's Leap Illustration">
+  <img src="/assets/img/longberrys-leap-illus.jpg" alt="Longberry's Leap Illustration">
   <h2>LONGBERRY'S LEAP</h2>
 <p><strong>CHAPTER ONE</strong></p>
 <p>Young Longberry lived in a land oh-so proud,</p>

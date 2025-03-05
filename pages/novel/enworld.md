@@ -15,6 +15,9 @@ eleventyNavigation:
   </div>
   <div class="text-container">
     <h2>ENWORLD</h2>
-    <p><strong>COMING SOON</strong></p>
+    <p><b>COMING SOON</b></p>
+    <p><em>EnWorld: An Encapsulated Future</em></p>
+    <p><b>A World Ruled by Algorithms and Ambition</b></p>
+    <p>A searing satire and a rallying cry, EnWorld exposes the seductive dangers of totalitarianism in the modern age and the fragile line between good and evil. For fans of Orwell, Huxley, and Bradbury, <em>EnWorld</em> pushes further into a future that mankind must avoid. As Orwell said, "Don't let it happen."</p>
   </div>
 </div>

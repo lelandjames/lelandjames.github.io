@@ -11,7 +11,7 @@ hide_title: true
 
 <div class="container">
   <div class="image-container">
-    <img src="/assets/img/animal_land.jpg" alt="Animal Land Book Cover">
+    <img src="/assets/img/animal-land.jpg" alt="Animal Land Book Cover">
   </div>
   <div class="text-container">
     <h2>ANIMAL LAND</h2>
@@ -25,7 +25,7 @@ hide_title: true
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
-  <img src="/assets/img/animal_land_illus.jpg" alt="Animal Land Illustration">
+  <img src="/assets/img/animal-land-illus.jpg" alt="Animal Land Illustration">
   <h2>ANIMAL LAND</h2>
   <h3>Prologue</h3>
   <pre>

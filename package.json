@@ -8,5 +8,10 @@
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "3.1.1",
     "purgecss": "^7.0.2"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve",
+    "format": "prettier --write ."
   }
 }
