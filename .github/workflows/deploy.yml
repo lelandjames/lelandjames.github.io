@@ -1,7 +1,7 @@
 name: Build and Deploy 11ty
 on:
   push:
-    branches: ["11ty"]  # Matches your branch
+    branches: ["main"]  # Matches your branch
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
