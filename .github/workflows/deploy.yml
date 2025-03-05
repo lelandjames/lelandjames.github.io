@@ -1,7 +1,7 @@
 name: Build and Deploy 11ty
 on:
   push:
-    branches: ["main"]
+    branches: ["11ty"]  # Matches your branch
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -9,10 +9,12 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: "18"  # Matches 11ty requirements
       - run: npm install
       - run: npm run build
+      - run: touch _site/.nojekyll  # Disables Jekyll processing
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
+          publish_branch: gh-pages  # Deploys to gh-pages branch
