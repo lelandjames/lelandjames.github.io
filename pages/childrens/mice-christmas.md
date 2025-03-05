@@ -7,6 +7,7 @@ hide_title: true
 eleventyNavigation:
   key: A MICE CHRISTMAS
   parent: CHILDRENS
+  order: 2
 ---
 
 <div class="container">

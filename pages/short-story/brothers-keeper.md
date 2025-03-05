@@ -6,6 +6,7 @@ description:
 eleventyNavigation:
   key: MY BROTHER'S KEEPER
   parent: SHORT STORY
+  order: 1
 ---
                            
 <h1>MY BROTHER'S KEEPER</h1>

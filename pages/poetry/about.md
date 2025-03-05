@@ -27,6 +27,10 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <br>
 <br>
 
+<p><a href="#" id="toggle-sample">Read sample poetry</a></p>
+
+<div class="centered-content" id="sample-content" style="display: none;">
+
 ### Sample poems
 
 <br>
@@ -45,9 +49,9 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>A rat gnaws on a crib, the final rite.</p>
 <p>Yet on this easel, raised by bardic hand,</p>
 <p>forgotten barns, <em>forgotten not</em>, still stand.</p>
-<ul>
-<li><p>First Publication, <em>Arc Poetry Magazine</em></p></li>
-</ul>
+<br>
+<p>--First Publication, <em>Arc Poetry Magazine</em></p>
+<br>
 <br>
 <p><strong>Butch the Mercurial Cat</strong></p>
 <p>The cat, a tabby gray,</p>
@@ -75,11 +79,11 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>then into thinnest air,</p>
 <p>without the slightest sound,</p>
 <p>Butch isn't there!</p>
-<ul>
-<li><p>Little Red Tree Publishing International Poetry Prize</p></li>
-<li><p>Dagda Publishing Anthology, <em>The Road Less Traveled</em></p></li>
-<li><p><em>Paragram Spotlights Anthology</em></p></li>
-</ul>
+<br>
+<p>--Little Red Tree Publishing International Poetry Prize</p>
+<p>--Dagda Publishing Anthology, <em>The Road Less Traveled</em></p>
+<p><em>--Paragram Spotlights Anthology</em></p>
+<br>
 <br>
 <p><strong>Spirit Road</strong></p>
 <p><em>Above the 49<sup>th</sup> parallel:</em></p>
@@ -116,10 +120,10 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>the forest sighs, a nearly inaudible sigh</p>
 <p>--north, a far place north, north of the 49<sup>th</sup> parallel,</p>
 <p>where a thousand years is the blink of an eye.</p>
-<ul>
-<li><p>1<sup>st</sup> place <em>Aesthetica Magazine,</em> Creative Works Poetry</p></li>
-<li><p>3<sup>rd</sup> place <em>London Magazine</em> Poetry Competition</p></li>
-</ul>
+<br>
+<p>--1<sup>st</sup> place <em>Aesthetica Magazine,</em> Creative Works Poetry</p>
+<p>--3<sup>rd</sup> place <em>London Magazine</em> Poetry Competition</p>
+<br>
 <br>
 <p><strong>At the Nursing Home</strong></p>
 <p><em>--an old man vacant by the window</em></p>
@@ -144,9 +148,9 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>and the thimble holds so little. The hills are gone</p>
 <p>and soon the thimble will tip slowly over.</p>
 <p>It will make no sound, nothing will spill.</p>
-<ul>
-<li><p>First Publication, <em>Tipton Poetry Journal</em></p></li>
-</ul>
+<br>
+<p>--First Publication, <em>Tipton Poetry Journal</em></p>
+<br>
 <br>
 <p><strong>Inside Apples</strong></p>
 <p>I utter apples, as only I (and you)</p>
@@ -166,9 +170,9 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>I marvel at the mystery, this</p>
 <p>utterance of apples, here inside</p>
 <p>of me (and you). "Apples."</p>
-<ul>
-<li><p>First Publication, <em>Vallum New International Poetics</em></p></li>
-</ul>
+<br>
+<p>--First Publication, <em>Vallum New International Poetics</em></p>
+<br>
 <br>
 <p><strong>A Song of Cedars</strong></p>
 <p>I am the singer,</p>
@@ -180,3 +184,22 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 <p>before I was born,</p>
 <p>where the cedars</p>
 <p>meet the sky.</p>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggleLink = document.getElementById("toggle-sample");
+    const prologueContent = document.getElementById("sample-content");
+
+    toggleLink.addEventListener("click", function(event) {
+      event.preventDefault(); // Prevent default link behavior
+      if (prologueContent.style.display === "none") {
+        prologueContent.style.display = "block"; // Show content
+        toggleLink.textContent = "Hide sample poetry"; // Change link text
+      } else {
+        prologueContent.style.display = "none"; // Hide content
+        toggleLink.textContent = "Read sample poetry"; // Change link text back
+      }
+    });
+  });
+</script>

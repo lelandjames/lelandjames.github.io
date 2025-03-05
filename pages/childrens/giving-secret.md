@@ -7,6 +7,7 @@ hide_title: true
 eleventyNavigation:
   key: THE GIVING SECRET
   parent: CHILDRENS
+  order: 3
 ---
 
 <div class="container">

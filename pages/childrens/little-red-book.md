@@ -7,6 +7,7 @@ hide_title: true
 eleventyNavigation:
   key: LITTLE RED BOOK OF WORDPLAY
   parent: CHILDRENS
+  order: 4
 ---
 
 <div class="container">

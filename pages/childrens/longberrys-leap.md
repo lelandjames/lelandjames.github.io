@@ -7,6 +7,7 @@ hide_title: true
 eleventyNavigation:
   key: LONGBERRY'S LEAP
   parent: CHILDRENS
+  order: 1
 ---
 
 <div class="container">

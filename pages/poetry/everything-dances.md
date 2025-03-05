@@ -6,6 +6,7 @@ description:
 eleventyNavigation:
   key: EVERYTHING DANCES
   parent: POETRY
+  order: 2
 hide_title: true
 ---
 

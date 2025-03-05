@@ -6,6 +6,7 @@ description:
 eleventyNavigation:
   key: GYPSY CAB
   parent: POETRY
+  order: 5
 hide_title: true
 ---
 

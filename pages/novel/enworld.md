@@ -7,6 +7,7 @@ hide_title: true
 eleventyNavigation:
   key: ENWORLD
   parent: NOVEL
+  order: 1
 ---
 
 <div class="container">
