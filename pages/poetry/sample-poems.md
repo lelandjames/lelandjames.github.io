@@ -6,11 +6,12 @@ description:
 eleventyNavigation:
   key: SAMPLE POEMS
   parent: POETRY
+  order: 2
 hide_title: true
 ---
 ## SAMPLE POEMS
 <br>
-<p><img src=/assets/img/bullet.png>Franklin-Christoph Merit Award for Poetry</p>
+<p><img src=/assets/img/bullet.png><strong>Franklin-Christoph Merit Award for Poetry</strong></p>
 <h3><strong>Rendering Ruins</strong></h3>
 <p>A barn abandoned, left to drift alone,</p>
 <p>wind torn and breached upon the reef of time;</p>
@@ -28,7 +29,7 @@ hide_title: true
 <p>forgotten barns, <em>forgotten not</em>, still stand.</p>
 <br>
 <br>
-<p><img src=/assets/img/bullet.png>First Publication, <em>Arc Poetry Magazine</em></p>
+<p><img src=/assets/img/bullet.png><strong>First Publication, <em>Arc Poetry Magazine</em></strong></p>
 <h3><strong>Butch the Mercurial Cat</strong></h3>
 <p>The cat, a tabby gray,</p>
 <p>his coat a watered silk,</p>
@@ -57,9 +58,9 @@ hide_title: true
 <p>Butch isn't there!</p>
 <br>
 <br>
-<p><img src=/assets/img/bullet.png>Little Red Tree Publishing International Poetry Prize</p>
-<p><img src=/assets/img/bullet.png>Dagda Publishing Anthology, <em>The Road Less Traveled</em></p>
-<p><img src=/assets/img/bullet.png><em>Paragram Spotlights Anthology</em></p>
+<p><img src=/assets/img/bullet.png><strong>Little Red Tree Publishing International Poetry Prize</strong></p>
+<p><img src=/assets/img/bullet.png><strong>Dagda Publishing Anthology, <em>The Road Less Traveled</em></strong></p>
+<p><img src=/assets/img/bullet.png><strong><em>Paragram Spotlights Anthology</em></strong></p>
 <h3><strong>Spirit Road</strong></h3>
 <p><em>Above the 49<sup>th</sup> parallel:</em></p>
 <p>The trace of an old wagon road</p>
@@ -97,8 +98,8 @@ hide_title: true
 <p>where a thousand years is the blink of an eye.</p>
 <br>
 <br>
-<p><img src=/assets/img/bullet.png>1<sup>st</sup> place <em>Aesthetica Magazine,</em> Creative Works Poetry</p>
-<p><img src=/assets/img/bullet.png>3<sup>rd</sup> place <em>London Magazine</em> Poetry Competition</p>
+<p><img src=/assets/img/bullet.png><strong>1<sup>st</sup> place <em>Aesthetica Magazine,</em> Creative Works Poetry</strong></p>
+<p><img src=/assets/img/bullet.png><strong>3<sup>rd</sup> place <em>London Magazine</em> Poetry Competition</strong></p>
 <h3><strong>At the Nursing Home</strong></h3>
 <p><em>--an old man vacant by the window</em></p>
 <p>Hold me occasionally for the light is fading</p>
@@ -124,7 +125,7 @@ hide_title: true
 <p>It will make no sound, nothing will spill.</p>
 <br>
 <br>
-<p><img src=/assets/img/bullet.png>First Publication, <em>Tipton Poetry Journal</em></p>
+<p><img src=/assets/img/bullet.png><strong>First Publication, <em>Tipton Poetry Journal</em></strong></p>
 <h3><strong>Inside Apples</strong></h3>
 <p>I utter apples, as only I (and you)</p>
 <p>can do. A tree can grow an apple.</p>
@@ -145,7 +146,7 @@ hide_title: true
 <p>of me (and you). "Apples."</p>
 <br>
 <br>
-<p><img src=/assets/img/bullet.png>First Publication, <em>Vallum New International Poetics</em></p>
+<p><img src=/assets/img/bullet.png><strong>First Publication, <em>Vallum New International Poetics</em></strong></p>
 <h3><strong>A Song of Cedars</strong></h3>
 <p>I am the singer,</p>
 <p>singing of cedars</p>

@@ -6,7 +6,7 @@ description:
 eleventyNavigation:
   key: MUSE
   parent: POETRY
-  order: 3
+  order: 5
 hide_title: true
 ---
 

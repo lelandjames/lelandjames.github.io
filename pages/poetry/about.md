@@ -6,6 +6,7 @@ description:
 eleventyNavigation:
   key: ABOUT LELAND JAMES POET
   parent: POETRY
+  order: 1
 hide_title: true
 ---
 ## ABOUT LELAND JAMES POET

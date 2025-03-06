@@ -6,7 +6,7 @@ description:
 eleventyNavigation:
   key: ROLLERCOASTER MOONS
   parent: POETRY
-  order: 1
+  order: 3
 hide_title: true
 ---
 
