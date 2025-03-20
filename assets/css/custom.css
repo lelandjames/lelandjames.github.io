@@ -9,6 +9,7 @@
 /* Image container styling */
 .image-container {
   flex: 0 0 260px; /* Fixed width for the image container */
+
 }
 
 .post {
@@ -18,6 +19,8 @@
 .image-container img {
   width: 100%;
   height: auto;
+  border-radius: 8px; /* Keep the rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Keep the shadow */
 }
 
 /* Text container styling */
