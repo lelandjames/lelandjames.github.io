@@ -16,10 +16,10 @@ profile:
 ---
 <article>
   <div class="container">
-    <div class="text-container" style="flex: 0 0 55%; max-width: 55%;">
+    <div class="text-container" style="flex: 0 0 55%; max-width: 100%;">
       <p>Leland James is the winner of the Aesthetica Creative Writing Award and the Conclave Character Prize in fiction. In addition to fiction, Leland has published poetry worldwide, authoring eight poetry collection and five children's books in verse, garnering over a dozen international prizes and awards including nomination for a Pushcart Prize. His writing style is described by Don Williams, Editor Emeritus of New Millennium Writings as "mystical yet earthbound."</p>
     </div>
-    <div class="image-container" style="flex: 0 0 45%; max-width: 45%;">
+    <div class="image-container" style="flex: 0 0 45%; max-width: 100%;">
       <img
         src="/assets/img/leland-james.jpg"
         class="img-fluid z-depth-1 rounded"
