@@ -120,3 +120,27 @@ footer.sticky-bottom {
   font-weight: bold;
 }
 
+/* Responsive styles for mobile screens */
+@media (max-width: 768px) {
+  .gallery {
+    flex-direction: column; /* Stack items vertically */
+    gap: 1.5em; /* Increase spacing between items */
+    padding-bottom: 1.5em; /* Add more padding for better spacing */
+  }
+
+  .gallery-grid {
+    flex-direction: column; /* Stack items vertically */
+    max-width: 100%; /* Ensure it fits within the screen width */
+    gap: 1.5em; /* Increase spacing between items */
+  }
+
+  .gallery-item {
+    margin: 0 auto; /* Center items horizontally */
+    width: 70%; /* Allow items to take full width */
+  }
+
+  .gallery-item img {
+    border-radius: 6px; /* Slightly reduce border radius for smaller screens */
+  }
+}
+

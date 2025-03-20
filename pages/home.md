@@ -44,8 +44,7 @@ profile:
         </div>
       </a>
     </div>
-
-    <div class="container">
+ <div class="container">
     <h2>Explore More</h2>
     </div>
     <div class="gallery">
@@ -60,7 +59,6 @@ profile:
     {% endif %}
         {% endfor %}
       </div>
-    </div>
     </div>
 </article>
 
