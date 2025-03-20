@@ -22,18 +22,8 @@ eleventyNavigation:
     <p><em>EnWorld: An Encapsulated Future</em></p>
     <p><b>A World Ruled by Algorithms and Ambition</b></p>
     <p>A searing satire and a rallying cry, EnWorld exposes the seductive dangers of totalitarianism in the modern age and the fragile line between good and evil. For fans of Orwell, Huxley, and Bradbury, <em>EnWorld</em> pushes further into a future that mankind must avoid. As Orwell said, "Don't let it happen."</p>
-    <p><a href="#" id="toggle-sample">Read prologue</a></p>    
+    <p><a href="/assets/pdf/enworld-prologue.pdf" target="_blank">Read the prologue (PDF)</a></p>    
   </div>
-</div>
-<div class="centered-content" id="sample-content" style="display: none;">
-  <div class="mobile-only">
-    <a href="/assets/pdf/enworld-prologue.pdf" target="_blank">Read the Prologue (PDF)</a>
-  </div>
-<div class="desktop-only">
-  <object data="/assets/pdf/enworld-prologue.pdf#view=FitH" type="application/pdf" width="100%" height="840px">
-    <p>Your browser cannot display this PDF. <a href="/assets/pdf/enworld-prologue.pdf">Download it instead</a>.</p>
-  </object>
-</div>
 </div>
 
 <script>
