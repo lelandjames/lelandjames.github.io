@@ -140,7 +140,7 @@ footer.sticky-bottom {
 
   .gallery-item {
     margin: 0 auto; /* Center items horizontally */
-    width: 70%; /* Allow items to take full width */
+    width: 100%; /* Allow items to take full width */
   }
 
   .gallery-item img {
