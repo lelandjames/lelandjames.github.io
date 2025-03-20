@@ -35,7 +35,6 @@ profile:
         <img src="/assets/img/enworld.jpg" alt="Book Cover">
       </a>
     </div>
-    <a href="novel/enworld" style="text-decoration: none;">
       <div class="text-container">
         <h1>ENWORLD</h1>
         <p><em>An Encapsulated Future</em></p>
@@ -43,11 +42,11 @@ profile:
         <p><b>COMING SOON</b></p>
         <p><b>A World Ruled by Algorithms and Ambition</b></p>
         <p>A searing satire and a rallying cry, EnWorld exposes the seductive dangers of totalitarianism in the modern age and the fragile line between good and evil. For fans of Orwell, Huxley, and Bradbury, <em>EnWorld</em> pushes further into a future that mankind must avoid. As Orwell said, "Don't let it happen."</p>
+        <a href="novel/enworld">More information (and prologue)</a>
       </div>
-    </a>
   </div>
   <div class="container">
-    <h2>Explore More</h2>
+    <h2>Explore more titles</h2>
   </div>
   <div class="gallery">
     <div class="gallery-grid">
