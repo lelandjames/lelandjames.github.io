@@ -30,7 +30,7 @@ profile:
   </div>
   <br>
   <div class="container">
-    <div class="image-container" style="flex: 0 0 220px;">
+    <div class="image-container" style="flex: 0 0 230px;">
       <a href="novel/enworld">
         <img src="/assets/img/enworld.jpg" alt="Book Cover">
       </a>
