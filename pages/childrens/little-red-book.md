@@ -3,6 +3,7 @@ layout: page
 permalink: /childrens/little-red-book/
 title: LITTLE RED BOOK OF WORDPLAY
 description: 
+thumbnail: /assets/img/little-red-book.jpg
 hide_title: true
 eleventyNavigation:
   key: LITTLE RED BOOK OF WORDPLAY
@@ -16,7 +17,9 @@ eleventyNavigation:
   </div>
   <div class="text-container">
     <h2>LITTLE RED BOOK OF WORDPLAY</h2>
-    <p>Lorem ipsum</p>
+    <p>“Here’s a great learning experience for the kids … a big, wonderful box of literary tools and devices—a veritable symphony of words that runs the gamut from the silly to the sublime. Have some fun with the English language and let Perspicacious Cat lead the way on an amazing, informative journey.”</p>
+    <p><strong>—Terry Caszatt, former creative writing instructor, Interlochen Center for the Arts, 
+            and author of the children’s novel Brass Monkeys.</strong></p>
     <p><a href="#" id="toggle-sample">Read sample</a></p>
     <p><a href="https://littleredtree.com/a-little-red-book-of-wordplay-with-perspicacious-the-cat/">Order book</a></p>
   </div>
@@ -40,6 +43,7 @@ eleventyNavigation:
       if (prologueContent.style.display === "none") {
         prologueContent.style.display = "block"; // Show content
         toggleLink.textContent = "Hide sample"; // Change link text
+        prologueContent.scrollIntoView({ behavior: "smooth" }); // Scroll to content
       } else {
         prologueContent.style.display = "none"; // Hide content
         toggleLink.textContent = "Read sample"; // Change link text back

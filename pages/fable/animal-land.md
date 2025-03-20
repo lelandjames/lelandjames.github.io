@@ -3,6 +3,7 @@ layout: page
 permalink: /fable/animal-land/
 title: ANIMAL LAND
 description:
+thumbnail: /assets/img/animal-land.jpg
 eleventyNavigation:
   key: ANIMAL LAND
   parent: FABLE
@@ -66,6 +67,7 @@ A time of World War.
       if (prologueContent.style.display === "none") {
         prologueContent.style.display = "block"; // Show content
         toggleLink.textContent = "Hide prologue"; // Change link text
+        prologueContent.scrollIntoView({ behavior: "smooth" }); // Scroll to content
       } else {
         prologueContent.style.display = "none"; // Hide content
         toggleLink.textContent = "Read prologue"; // Change link text back

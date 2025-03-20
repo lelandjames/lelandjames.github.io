@@ -10,6 +10,12 @@ eleventyNavigation:
 hide_title: true
 ---
 ## SAMPLE POEMS
+<style>
+  p {
+    margin-bottom: 0em; /* Adjust spacing between paragraphs */
+    line-height: 1.5; /* Adjust line spacing within paragraphs */
+  }
+</style>
 <br>
 <p><img src=/assets/img/bullet.png><strong>Franklin-Christoph Merit Award for Poetry</strong></p>
 <h3><strong>Rendering Ruins</strong></h3>

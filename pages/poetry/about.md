@@ -20,10 +20,10 @@ Leland has been featured in American Life in Poetry, The Poetry Foundation and w
 ### Praise for the Poetry of Leland James
 
 “Leland James’ mystical yet earthbound poems are among the most moving I’ve encountered ..."  
-*—Don Williams, Editor Emeritus, New Millennium Writings, USA*
+***—Don Williams, Editor Emeritus, New Millennium Writings, USA***
 
 “James’ poetry is priceless--original, alive and clear--bringing forth the wonder of life, while reflecting on its hardship.  
-*—Eleni Zisimatos, Editor-in-Chief, Vallum Magazine, Canada*
+***—Eleni Zisimatos, Editor-in-Chief, Vallum Magazine, Canada***
 
 “Always on the move, suggesting new patterns and connections, creases and folds ...”  
-*—Oz Hardwick for Aesthetica Magazine, UK*
+***—Oz Hardwick for Aesthetica Magazine, UK***

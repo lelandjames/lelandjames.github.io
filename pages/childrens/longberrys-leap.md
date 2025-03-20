@@ -3,6 +3,7 @@ layout: page
 permalink: /childrens/longberrys-leap/
 title: LONGBERRY'S LEAP
 description: 
+thumbnail: /assets/img/longberrys-leap.jpg
 hide_title: true
 eleventyNavigation:
   key: LONGBERRY'S LEAP
@@ -60,6 +61,7 @@ eleventyNavigation:
       if (prologueContent.style.display === "none") {
         prologueContent.style.display = "block"; // Show content
         toggleLink.textContent = "Hide sample"; // Change link text
+        prologueContent.scrollIntoView({ behavior: "smooth" }); // Scroll to content
       } else {
         prologueContent.style.display = "none"; // Hide content
         toggleLink.textContent = "Read sample"; // Change link text back
@@ -67,3 +69,4 @@ eleventyNavigation:
     });
   });
 </script>
+

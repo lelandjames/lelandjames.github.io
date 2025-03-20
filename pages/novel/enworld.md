@@ -2,6 +2,7 @@
 layout: page
 permalink: /novel/enworld/
 title: ENWORLD
+thumbnail: /assets/img/enworld.jpg
 description: 
 hide_title: true
 eleventyNavigation:
