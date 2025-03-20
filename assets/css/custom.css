@@ -104,14 +104,15 @@ footer.sticky-bottom {
 .gallery-item {
   flex: 0 0 auto; /* Prevent items from shrinking */
   text-align: center; /* Center-align text under the image */
-  width: 150px; /* Set a fixed width for each item */
+  width: auto; 
 }
 
 .gallery-item img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: 250px; /* Set a fixed height for all images */
+  width: auto; /* Automatically adjust the width to maintain aspect ratio */
+  object-fit: cover; /* Ensure the image fills the height while maintaining proportions */
+  border-radius: 8px; /* Keep the rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Keep the shadow */
 }
 
 .gallery-item p {
