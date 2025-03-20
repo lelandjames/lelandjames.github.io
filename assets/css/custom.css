@@ -6,6 +6,10 @@
   margin-bottom: 2em;
 }
 
+.container > * {
+  flex: 1; /* Shorthand for flex-grow: 1, flex-shrink: 1, flex-basis: 0 */
+}
+
 /* Image container styling */
 .image-container {
   flex: 0 0 260px; /* Fixed width for the image container */
@@ -14,6 +18,7 @@
 
 .post {
   flex: 0 0 670px; 
+  margin: 0 auto; /* Center the post horizontally */
 }
 
 .image-container img {
