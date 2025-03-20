@@ -144,3 +144,31 @@ footer.sticky-bottom {
   }
 }
 
+.mobile-only {
+  display: none; /* Hidden by default */
+}
+
+.desktop-only {
+  display: block; /* Visible by default */
+}
+
+@media (max-width: 768px) {
+  .mobile-only {
+    display: block; /* Show on mobile */
+  }
+  .desktop-only {
+    display: none !important; /* Hide on mobile */
+  }
+}
+
+.desktop-only {
+  display: flex; /* Use flexbox for alignment */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically if needed */
+  margin-top: 1em; /* Add spacing above the iframe */
+}
+
+.desktop-only iframe {
+  max-width: 100%; /* Ensure the iframe doesn't exceed the container width */
+  border: none; /* Ensure no border is visible */
+}
