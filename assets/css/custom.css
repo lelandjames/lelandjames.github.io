@@ -141,7 +141,7 @@ footer.sticky-bottom {
   .gallery-item {
     margin: 0 auto; /* Center items horizontally */
     width: 90%; /* Allow items to take up 90% of the screen width */
-    max-width: 260px; /* Set a maximum width for larger screens */
+    max-width: 300px; /* Set a maximum width for larger screens */
   }
 
   .gallery-item img {
