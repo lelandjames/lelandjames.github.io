@@ -140,11 +140,15 @@ footer.sticky-bottom {
 
   .gallery-item {
     margin: 0 auto; /* Center items horizontally */
-    width: 100%; /* Allow items to take full width */
+    width: 90%; /* Allow items to take up 90% of the screen width */
+    max-width: 260px; /* Set a maximum width for larger screens */
   }
 
   .gallery-item img {
-    border-radius: 6px; /* Slightly reduce border radius for smaller screens */
+    height: auto; /* Allow the height to adjust based on the width */
+    width: 100%; /* Ensure the image fills the container width */
+    object-fit: cover; /* Maintain aspect ratio and crop if necessary */
+    border-radius: 8px; /* Keep the rounded corners */
   }
 }
 
