@@ -8,7 +8,7 @@
 
 /* Image container styling */
 .image-container {
-  flex: 0 0 280px; /* Fixed width for the image container */
+  flex: 0 0 260px; /* Fixed width for the image container */
 }
 
 .post {
