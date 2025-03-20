@@ -22,4 +22,8 @@ eleventyNavigation:
     <p><b>A World Ruled by Algorithms and Ambition</b></p>
     <p>A searing satire and a rallying cry, EnWorld exposes the seductive dangers of totalitarianism in the modern age and the fragile line between good and evil. For fans of Orwell, Huxley, and Bradbury, <em>EnWorld</em> pushes further into a future that mankind must avoid. As Orwell said, "Don't let it happen."</p>
   </div>
+  </div>
+  <div class="container">
+  <embed src="/assets/pdf/enworld-prologue.pdf" type="application/pdf" width="100%" height="600px">
+  </div>
 </div>
