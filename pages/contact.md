@@ -2,7 +2,7 @@
 layout: page
 permalink: /contact/
 title: Contact
-description: Get in touch with us
+description: 
 hide_title: false
 ---
 
