@@ -58,6 +58,7 @@
 
 
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/custom.css">
 <link rel="canonical" href="/childrens/giving-secret/">
 
 <!-- Dark Mode -->
@@ -350,7 +351,7 @@
     <h2>THE GIVING SECRET</h2>
     <p><em>The Giving Secret, a true story</em> is an illustrated story of the power of giving, relationships, and imagination written by award-winning poet Leland James. It is a book of understated wisdom (Winnie the Pooh), exposing the apparent contradiction between emotional and artistic <em>truths</em> versus logical conclusions or mathematical facts. It is warm and intellectually stimulating.</p>
     <p><em>"The Giving Secret</em> by Leland James is like a magic amulet, a guide back to the age of innocence and wonder, where a small, ordinary moment can become an exciting, all-encompassing world."</p>
-    <p>--Terry Cazatt, former creative writing instructor at the Interlochen Center for the Arts.</p>
+    <p><strong>—Terry Cazatt, former creative writing instructor at the Interlochen Center for the Arts.</strong></p>
     <p><a href="#" id="toggle-sample">Read sample</a></p>
     <p><a href="https://www.barnesandnoble.com/w/the-giving-secret-leland-james/1146687694">Order book</a></p>
   </div>
@@ -376,6 +377,7 @@
       if (prologueContent.style.display === "none") {
         prologueContent.style.display = "block"; // Show content
         toggleLink.textContent = "Hide sample"; // Change link text
+        prologueContent.scrollIntoView({ behavior: "smooth" }); // Scroll to content
       } else {
         prologueContent.style.display = "none"; // Hide content
         toggleLink.textContent = "Read sample"; // Change link text back

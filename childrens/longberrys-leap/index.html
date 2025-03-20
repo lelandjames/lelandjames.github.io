@@ -58,6 +58,7 @@
 
 
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/custom.css">
 <link rel="canonical" href="/childrens/longberrys-leap/">
 
 <!-- Dark Mode -->
@@ -390,6 +391,7 @@
       if (prologueContent.style.display === "none") {
         prologueContent.style.display = "block"; // Show content
         toggleLink.textContent = "Hide sample"; // Change link text
+        prologueContent.scrollIntoView({ behavior: "smooth" }); // Scroll to content
       } else {
         prologueContent.style.display = "none"; // Hide content
         toggleLink.textContent = "Read sample"; // Change link text back
