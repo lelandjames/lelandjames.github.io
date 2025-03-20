@@ -3,6 +3,7 @@ layout: page
 permalink: /poetry/rollercoaster-moons/
 title: ROLLERCOASTER MOONS
 description: 
+galleryOrder: 3
 thumbnail: /assets/img/rollercoaster-moons.png
 eleventyNavigation:
   key: ROLLERCOASTER MOONS

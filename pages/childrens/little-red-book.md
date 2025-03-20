@@ -3,6 +3,7 @@ layout: page
 permalink: /childrens/little-red-book/
 title: LITTLE RED BOOK OF WORDPLAY
 description: 
+galleryOrder: 11
 thumbnail: /assets/img/little-red-book.jpg
 hide_title: true
 eleventyNavigation:

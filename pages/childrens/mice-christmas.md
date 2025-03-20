@@ -4,6 +4,7 @@ permalink: /childrens/mice-christmas/
 title: A MICE CHRISTMAS
 thumbnail: /assets/img/mice-christmas.jpg
 description: 
+galleryOrder: 9
 hide_title: true
 eleventyNavigation:
   key: A MICE CHRISTMAS
@@ -44,7 +45,7 @@ eleventyNavigation:
 <p>at a fraction to nine,</p>
 <p>the shop will be empty</p>
 <p>of Valerie's feline.</p></th>
-<p><img src="/assets/img/mice-christmas-illus.jpg" alt="Mice Christmas Illustration" /></p>
+<p><img src="/assets/img/mice-christmas-illus.jpg" alt="Mice Christmas Illustration" style="border-radius: 8px;"/></p>
 </div>
 
 <script>

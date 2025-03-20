@@ -3,6 +3,7 @@ layout: page
 permalink: /childrens/longberrys-leap/
 title: LONGBERRY'S LEAP
 description: 
+galleryOrder: 8
 thumbnail: /assets/img/longberrys-leap.jpg
 hide_title: true
 eleventyNavigation:
@@ -26,8 +27,8 @@ eleventyNavigation:
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
-  <img src="/assets/img/longberrys-leap-illus.jpg" alt="Longberry's Leap Illustration">
   <h2>LONGBERRY'S LEAP</h2>
+  <img src="/assets/img/longberrys-leap-illus.jpg" alt="Longberry's Leap Illustration">
 <p><strong>CHAPTER ONE</strong></p>
 <p>Young Longberry lived in a land oh-so proud,</p>
 <p>high on a mountaintop, lost in a cloud.</p>

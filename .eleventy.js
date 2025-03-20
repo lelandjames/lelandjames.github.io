@@ -15,4 +15,10 @@ export default function (eleventyConfig) {
   eleventyConfig.setLayoutsDirectory('_layouts');
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  
+  eleventyConfig.addCollection("galleryItems", function (collectionApi) {
+    return collectionApi.getAll()
+      .filter(page => page.data.galleryOrder)
+      .sort((a, b) => a.data.galleryOrder - b.data.galleryOrder);
+  });
 };

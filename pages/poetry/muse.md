@@ -3,6 +3,7 @@ layout: page
 permalink: /poetry/muse/
 title: MUSE
 description: 
+galleryOrder: 5
 thumbnail: /assets/img/muse.jpg
 eleventyNavigation:
   key: MUSE

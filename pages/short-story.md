@@ -3,5 +3,5 @@ layout: page
 title: SHORT STORY
 eleventyNavigation:
   key: SHORT STORY
-  order: 6
+  order: 5
 ---

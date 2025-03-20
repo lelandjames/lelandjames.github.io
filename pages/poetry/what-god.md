@@ -3,6 +3,7 @@ layout: page
 permalink: /poetry/what-god/
 title: WHAT GOD IN THIS FOREST DWELLS
 description: 
+galleryOrder: 7
 thumbnail: /assets/img/what-god.jpg
 eleventyNavigation:
   key: WHAT GOD IN THIS FOREST DWELLS

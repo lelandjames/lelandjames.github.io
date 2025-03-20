@@ -3,6 +3,7 @@ layout: page
 permalink: /childrens/giving-secret/
 title: THE GIVING SECRET
 description: 
+galleryOrder: 10
 thumbnail: /assets/img/giving-secret.jpg
 hide_title: true
 eleventyNavigation:
@@ -26,6 +27,7 @@ eleventyNavigation:
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
+<h2>THE GIVING SECRET</h2>
 <p><img src="/assets/img/giving-secret-illus.jpg" alt="Giving Secret Illustration" /></p>
 <p>There lived a little girl, no not a fairy princess,</p>
 <p>or wizardess, nothing like that; a quite ordinary</p>

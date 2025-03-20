@@ -4,5 +4,5 @@ title: CHILDRENS
 permalink: /childrens/
 eleventyNavigation:
   key: CHILDRENS
-  order: 4
+  order: 6
 ---

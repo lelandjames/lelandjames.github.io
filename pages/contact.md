@@ -4,6 +4,9 @@ permalink: /contact/
 title: Contact
 description: 
 hide_title: false
+eleventyNavigation:
+  key: CONTACT
+  order: 7
 ---
 
 <div class="contact-section">

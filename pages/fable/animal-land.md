@@ -3,6 +3,7 @@ layout: page
 permalink: /fable/animal-land/
 title: ANIMAL LAND
 description:
+galleryOrder: 2
 thumbnail: /assets/img/animal-land.jpg
 eleventyNavigation:
   key: ANIMAL LAND
@@ -26,8 +27,8 @@ hide_title: true
 </div>
 
 <div class="centered-content" id="sample-content" style="display: none;">
-  <img src="/assets/img/animal-land-illus.jpg" alt="Animal Land Illustration">
   <h2>ANIMAL LAND</h2>
+  <img src="/assets/img/animal-land-illus.jpg" alt="Animal Land Illustration">
   <h3>Prologue</h3>
   <pre>
 Animal Land was at the heart of things,

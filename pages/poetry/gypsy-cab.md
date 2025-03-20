@@ -3,6 +3,7 @@ layout: page
 permalink: /poetry/gypsy-cab/
 title: GYPSY CAB
 description: 
+galleryOrder: 7
 thumbnail: /assets/img/gypsy-cab.jpg
 eleventyNavigation:
   key: GYPSY CAB

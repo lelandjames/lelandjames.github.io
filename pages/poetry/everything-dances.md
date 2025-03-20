@@ -4,6 +4,7 @@ permalink: /poetry/everything-dances/
 title: EVERYTHING DANCES
 description: 
 thumbnail: /assets/img/everything-dances.jpg
+galleryOrder: 4
 eleventyNavigation:
   key: EVERYTHING DANCES
   parent: POETRY

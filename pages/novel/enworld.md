@@ -4,6 +4,7 @@ permalink: /novel/enworld/
 title: ENWORLD
 thumbnail: /assets/img/enworld.jpg
 description: 
+galleryOrder: 1
 hide_title: true
 eleventyNavigation:
   key: ENWORLD
@@ -28,9 +29,11 @@ eleventyNavigation:
   <div class="mobile-only">
     <a href="/assets/pdf/enworld-prologue.pdf" target="_blank">Read the Prologue (PDF)</a>
   </div>
-  <div class="desktop-only">
-      <iframe src="/assets/pdf/enworld-prologue.pdf"  height="600px" width="100%" style="border: none;"></iframe>
-  </div>
+<div class="desktop-only">
+  <object data="/assets/pdf/enworld-prologue.pdf#view=FitH" type="application/pdf" width="100%" height="600px">
+    <p>Your browser cannot display this PDF. <a href="/assets/pdf/enworld-prologue.pdf">Download it instead</a>.</p>
+  </object>
+</div>
 </div>
 
 <script>
