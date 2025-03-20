@@ -24,6 +24,6 @@ eleventyNavigation:
   </div>
   </div>
   <div class="container">
-  <embed src="/assets/pdf/enworld-prologue.pdf" type="application/pdf" width="100%" height="600px">
+  <iframe src="/assets/pdf/enworld-prologue.pdf" width="100%" height="600px" style="border: none;"></iframe>
   </div>
 </div>
