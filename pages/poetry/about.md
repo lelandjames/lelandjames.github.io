@@ -11,7 +11,7 @@ hide_title: true
 ---
 ## ABOUT LELAND JAMES POET
 
-Leland James is the author of eight books of poetry, several children’s books in verse, and a book on poetry craft. He has published over 300 poems in poetry venues worldwide including Rattle, The Lyric, The South Carolina Review; The Spoon River Poetry Review, The Atlanta Review, New Millennium Writings, HQ The Haiku Quarterly, and The London Magazine. 
+Leland James is the author of eight books of poetry, several children’s books in verse, and a book on poetry craft. He has published over 300 poems in poetry venues worldwide including <em>Rattle, The Lyric, The South Carolina Review, The Spoon River Poetry Review, The Atlanta Review, New Millennium Writings, HQ The Haiku Quarterly,</em> and<em> The London Magazine</em>. 
 
 His work has been included in several anthologies and he is the recipient of numerous international poetry awards, including winner of The Little Red Tree International Poetry Prize, winner of the Aesthetica Creative Writing Award in poetry, winner of the Writer’s Forum Short Poem contest, winner of the Portland Pen Poetry Contest, and a winner of an Atlanta Review International Publication Prize; runners-up have been awarded in the Sequestrum Editor's Reprint Awards, the Fish International Poetry Prize, the Welsh International Poetry Prize, and the London Magazine Poetry Contest, with honors awarded in the Bridport Prize, Morton Marr, The Southwest Review, and others. 
 
