@@ -19,6 +19,6 @@ hide_title: true
   <div class="text-container">
     <h2>GYPSY CAB</h2>
     <p><em>Gypsy Cab</em> is a collection not just of portraits of people but of the human spirit as encountered in everyday life. James, in the best poetic tradition, does not attempt to explain the characters in his poems but simply presents them, leaving interpretation to the reader. The portraits presented range from the joyful to the sorrowful, comedic and tragic. This collection is an art gallery in words. Poetic form in this collection ranges from open verse to traditional meter and rhyme.</p>
-    <!--<p><a href="https://www.cyberwit.net/publications/1366">Order collection</a></p>-->
+    <p><a href="https://www.amazon.com/Gypsy-Cab-Leland-James/dp/9363549631">Order collection</a></p>
   </div>
 </div>
