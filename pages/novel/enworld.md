@@ -19,7 +19,7 @@ eleventyNavigation:
     <h2>Order book</h2>
     <p><a href="https://www.amazon.com/dp/163299996X">Amazon - Paperback + Kindle eBook</a></p>
     <p><a href="https://www.barnesandnoble.com/w/enworld-leland-james/1147646329?ean=9781632999962">Barnes & Noble - Paperback</a></p>   
-    <p><a href="http://bookshop.org/">Bookshop.org - Paperback</a></p>
+    <p><a href="https://bookshop.org/p/books/enworld-an-encapsulated-future/96819dbb21b7433b?ean=9781632999962&next=t">Bookshop.org - Paperback</a></p>
     <p><a href="https://books.apple.com/us/book/enworld/id6747411565">Apple Books - eBook</a></p>
   </div>
   <div class="text-container">
