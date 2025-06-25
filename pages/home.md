@@ -52,6 +52,8 @@ profile:
         <p><strong>–Kirkus Reviews</strong></p>
         <p>“EnWorld is a richly philosophical dystopian novel imagining a future where technological progress and totalitarian domination merge to remake human civilization.”</p>
         <p><strong>–Readers Favorite Review, 5-Stars</strong></p>
+        <p>“This is a polished, satirical examination of what evil truly means in our modern world. Sharp, witty satire sifting fiction, reality, and contemporary life.</p>
+        <p><strong>–PW's Booklife</strong></p>        
         <p><a href="/assets/pdf/enworld-prologue.pdf" target="_blank">Read the prologue (PDF)</a></p> 
       </div>
   </div>
