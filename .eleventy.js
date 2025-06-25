@@ -5,7 +5,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'assets': 'assets',
     'robots.txt': 'robots.txt',
+    'CNAME': 'CNAME'
   });
+  
   eleventyConfig.addGlobalData('site', {
     title: 'blank', // Set to 'blank' to use first_name and last_name
     first_name: 'Leland',
